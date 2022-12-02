@@ -1131,6 +1131,18 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
+"@ersanyakit/swapcore@^3.1.1":
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/@ersanyakit/swapcore/-/swapcore-3.1.1.tgz#79729cf9963ab0ab524931e7a2288e2d0d43d6ec"
+  integrity sha512-BCAKZraUsZc+eHDqMf39wxtXGOCph917OmQQ3/xSiItna5bMwsZYd1+h5OmE14sAnLs2L4zTT7tTn+NkHA6dSA==
+  dependencies:
+    "@ethersproject/address" "^5.0.2"
+    big.js "^5.2.2"
+    decimal.js-light "^2.5.0"
+    jsbi "^3.1.4"
+    tiny-invariant "^1.1.0"
+    toformat "^2.0.0"
+
 "@ethersproject/address@^5.0.0", "@ethersproject/address@^5.0.2":
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/@ethersproject/address/-/address-5.0.2.tgz#80d0ddfb7d4bd0d32657747fa4bdd2defef2e00a"
@@ -1717,11 +1729,6 @@
     jsbi "^3.1.4"
     tiny-invariant "^1.1.0"
     toformat "^2.0.0"
-
-"@uniswap/v2-core@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@uniswap/v2-core/-/v2-core-1.0.1.tgz#af8f508bf183204779938969e2e54043e147d425"
-  integrity sha512-MtybtkUPSyysqLY2U210NBDeCHX+ltHt3oADGdjqoThZaFRDKwM6k1Nb3F0A3hk5hwuQvytFWhrWHOEq6nVJ8Q==
 
 abab@^2.0.0:
   version "2.0.3"
