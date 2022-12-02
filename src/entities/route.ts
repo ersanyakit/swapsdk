@@ -1,5 +1,5 @@
 import invariant from 'tiny-invariant'
-import { Currency, Price, Token } from '@uniswap/sdk-core'
+import { Currency, Price, Token } from '@ersanyakit/swapcore'
 
 import { Pair } from './pair'
 

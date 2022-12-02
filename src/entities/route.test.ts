@@ -1,4 +1,4 @@
-import { Ether, Token, WETH9, CurrencyAmount } from '@uniswap/sdk-core'
+import { Ether, Token, WETH9, CurrencyAmount } from '@ersanyakit/swapcore'
 import { Pair, Route } from './index'
 
 describe('Route', () => {
